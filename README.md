@@ -20,9 +20,9 @@ Overall, these findings emphasize the necessity for targeted public health inter
 
 
 **Mortality Rate based on Urban or Rural Recidency**
+ 
+**Mortality Rates Summary**
 
- urbanVrural
-Mortality Rates Summary
 HHS Region 01
 
 Min: 4.50 | 1st Quartile: 15.50 | Median: 26.75 | Mean: 51.67 | 3rd Quartile: 48.48 | Max: 202.70
@@ -63,7 +63,8 @@ HHS Region 10
 
 Min: 5.90 | 1st Quartile: 16.45 | Median: 34.55 | Mean: 53.63 | 3rd Quartile: 50.42 | Max: 197.10
 
-Urban vs. Rural: Mortality rates are higher in rural areas compared to urban areas.
+
+**Urban vs. Rural: Mortality rates are higher in rural areas compared to urban areas.**
 
 Urban
 
