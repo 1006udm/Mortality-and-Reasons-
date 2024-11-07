@@ -4,11 +4,13 @@ The analysis of mortality rates by region, gender, and cause of death, conducted
 
 
 **Overview:**
+
 Mortality by Region
 Cancer and heart disease are the leading causes of death in the United States, with average mortality rates of 172.2 and 176.7 per 100,000 individuals, respectively. In contrast, rates for the other top eight causes of death average between the 40s and 10s per 100,000.
 Significant gender disparities are also observed, with males experiencing a mortality rate of 67.16 compared to 46.66 for females, reflecting a difference of nearly 20 deaths per 100,000. These findings highlight the urgent need for targeted public health initiatives to address these prevalent health issues and disparities.
 
 **Regional Analysis:**
+
 The analysis of mortality data reveals that heart disease remains the leading cause of death across the United States, with an average mortality rate of 176.7 per 100,000 individuals. However, a closer examination of regional statistics uncovers notable variations in this trend. Specifically, in HHS Regions 01 and 08, cancer emerges as the primary cause of death. In Region 01, the average mortality rate for heart disease is 157.0, while the rate for cancer stands at 171.0, indicating a shift in the leading cause of death. Similarly, in Region 08, cancer has an average mortality rate of 149.0, compared to 146.0 for heart disease. These findings underscore the importance of regional analysis in understanding health trends and tailoring public health interventions effectively.
 Furthermore, a comprehensive regional analysis of HHS Regions 01 to 10 reveals significant disparities in mortality rates, with mean rates fluctuating from approximately 51.71 in Region 08 to 63.26 in Region 04. Notably, Region 04 has the highest maximum mortality rate at 276.40, suggesting a higher prevalence of severe health issues in that area. In contrast, Region 01 exhibits a more favorable health outcome with the lowest minimum rate of 4.50, indicating varying public health challenges across regions.
 Additionally, an urban versus rural analysis highlights a concerning trend: urban areas present a mean mortality rate of 53.08, while rural areas exhibit a higher mean rate of 60.73. This disparity suggests that rural populations may face increased health challenges compared to their urban counterparts. The maximum mortality rate in rural settings is significantly higher at 276.40, indicating potential healthcare access issues or a greater prevalence of high-risk health factors in those regions.
@@ -16,8 +18,8 @@ Overall, these findings emphasize the necessity for targeted public health inter
 
 **Mortality Rates by the Region**
 
-Mortality
-Mortality Rate based on Urban or Rural Recidency
+
+**Mortality Rate based on Urban or Rural Recidency**
 
  urbanVrural
 Mortality Rates Summary
@@ -83,12 +85,12 @@ However, it is essential to recognize that there are exceptions to this general 
 Overall, these findings highlight the critical need for a closer examination of gender-based health outcomes. Understanding the complexities behind these disparities can inform public health initiatives and intervention strategies aimed at reducing mortality rates and improving health equity across genders. By addressing the specific health needs of both males and females, healthcare providers can work towards more effective prevention and treatment approaches that ultimately contribute to better health outcomes for all.
 
 
-Male vs Female
+**Male vs Female**
 
-Mortality rate based on gender and cause of death
+**Mortality rate based on gender and cause of death**
 
 
-Heart Disease Mortality Rates
+**Heart Disease Mortality Rates**
 
 Male
 
@@ -100,7 +102,7 @@ Min: 106.0 | 1st Quartile: 120.7 | Median: 135.2 | Mean: 136.8 | 3rd Quartile: 1
 
 
 
-Cancer Mortality Rates
+**Cancer Mortality Rates**
 
 Male
 
@@ -112,7 +114,7 @@ Female
 Min: 122.5 | 1st Quartile: 138.8 | Median: 144.2 | Mean: 143.5 | 3rd Quartile: 150.3 | Max: 156.7
 
 
-Lower Respiratory Disease Mortality Rates
+**Lower Respiratory Disease Mortality Rates**
 
 Male
 
@@ -124,7 +126,8 @@ Min: 28.0 | 1st Quartile: 38.08 | Median: 40.75 | Mean: 41.11 | 3rd Quartile: 45
 
 
 
-Unintentional Injuries Mortality Rates
+**Unintentional Injuries Mortality Rates**
+
 Male
 
 Min: 39.7 | 1st Quartile: 50.62 | Median: 55.75 | Mean: 59.58 | 3rd Quartile: 68.83 | Max: 79.1
@@ -135,7 +138,7 @@ Min: 17.0 | 1st Quartile: 25.5 | Median: 28.75 | Mean: 30.69 | 3rd Quartile: 37.
 
 
 
-Cerebrovascular Diseases Mortality Rates
+**Cerebrovascular Diseases Mortality Rates**
 
 Male
 
@@ -147,7 +150,7 @@ Min: 27.2 | 1st Quartile: 34.23 | Median: 37.35 | Mean: 37.2 | 3rd Quartile: 40.
 
 
 
-Alzheimer’s Disease Mortality Rates
+**Alzheimer’s Disease Mortality Rates**
 
 Male
 
@@ -159,7 +162,7 @@ Min: 13.6 | 1st Quartile: 25.35 | Median: 27.85 | Mean: 27.61 | 3rd Quartile: 31
 
 
 
-Diabetes Mortality Rates
+**Diabetes Mortality Rates**
 
 Male
 
@@ -171,7 +174,7 @@ Min: 12.1 | 1st Quartile: 16.52 | Median: 17.75 | Mean: 18.39 | 3rd Quartile: 19
 
 
 
-Flu and Pneumonia Mortality Rates
+**Flu and Pneumonia Mortality Rates**
 
 Male
 
@@ -181,7 +184,7 @@ Min: 8.8 | 1st Quartile: 12.57 | Median: 13.75 | Mean: 13.93 | 3rd Quartile: 14.
 
 
 
-Suicide Mortality Rates
+**Suicide Mortality Rates**
 
 Male
 
@@ -193,7 +196,7 @@ Min: 3.4 | 1st Quartile: 5.05 | Median: 5.8 | Mean: 6.09 | 3rd Quartile: 6.7 | M
 
 
 
-Nephritis Mortality Rates
+**Nephritis Mortality Rates**
 
 Male
 
