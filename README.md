@@ -1,4 +1,5 @@
 **Analyzing the Links Among Gender, Regional Factors and Cause of Death**
+
 The analysis of mortality rates by region, gender, and cause of death, conducted using R programming, highlights notable disparities. Across 400 observations from 10 regions, males consistently show higher mortality rates than females, except in Alzheimer’s disease. Regionally, HHS Region 04 (Atlanta) has the highest death rate, while HHS Region 08 (Denver) has the lowest. Rural areas report higher mortality rates compared to urban ones, reflecting potential socioeconomic and healthcare access differences. Cancer and heart disease emerge as the leading causes of death, with regional third-place causes varying between respiratory diseases and unintentional injuries. These findings emphasize the need for targeted interventions addressing high-risk demographics and regions, particularly for heart disease and cancer.
 
 
